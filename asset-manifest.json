@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Elibabah/my_Portfolio.git/static/css/main.073c9b0a.css",
+    "main.js": "/Elibabah/my_Portfolio.git/static/js/main.635fc8c7.js",
+    "static/js/787.d01475e4.chunk.js": "/Elibabah/my_Portfolio.git/static/js/787.d01475e4.chunk.js",
+    "static/media/logo.svg": "/Elibabah/my_Portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Elibabah/my_Portfolio.git/index.html",
+    "main.073c9b0a.css.map": "/Elibabah/my_Portfolio.git/static/css/main.073c9b0a.css.map",
+    "main.635fc8c7.js.map": "/Elibabah/my_Portfolio.git/static/js/main.635fc8c7.js.map",
+    "787.d01475e4.chunk.js.map": "/Elibabah/my_Portfolio.git/static/js/787.d01475e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.635fc8c7.js"
+  ]
+}
