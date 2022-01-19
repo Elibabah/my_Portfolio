@@ -1,11 +1,11 @@
-function Footer() {
-    return ( 
-    <div className= "Footer">
-        <footer className= "Footer">
-        this is my footer
-        </footer> 
-    </div>
-    );
+import "./Footer.css"
+
+const Footer=()=> {
+      return ( 
+            <footer className= "footer">
+            by Elibabah
+            </footer> 
+      );
 }
 
 export default Footer;
